@@ -33,15 +33,7 @@ It dynamically generates technical questions using Gemini AI and mixes them with
 ## 📂 Project Structure
 
 CodingAssignment/
-│
-├── k.py # Main Streamlit app (AI-Powered Interviewer)
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation (this file)
-├── leaderboard.xlsx # Leaderboard (auto-generated after runs)
-└── .gitignore # Ignored files
-
-
-
+ ------>>  k.py # Main Streamlit file (AI-Powered Interviewer)
 ---
 
 ## ⚡ Workflow
