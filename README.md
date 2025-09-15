@@ -1,6 +1,4 @@
-# -------------------------------------
-# Generate README.md for GitHub Project
-# -------------------------------------
+
 
 readme_content = """
 # 🎯 AI-Powered Interview Simulator
