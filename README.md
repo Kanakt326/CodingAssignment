@@ -1,6 +1,3 @@
-
-
-readme_content = """
 # 🎯 AI-Powered Interview Simulator
 
 ## 📌 Project Description
